@@ -11,6 +11,7 @@
 ![MyCertificatesHeader](https://user-images.githubusercontent.com/65850970/173562934-63239c45-c5df-4bc2-967a-63347de59dc4.png)
 
 <div align="center">
+   <img src="https://img.shields.io/badge/Certificate-CompTIA%20Linux+-20C20E?style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Certificate-Linux%20Turkcell-20C20E?style=for-the-badge">
  <img src="https://img.shields.io/badge/Certificate-CS50%20Harvard%20University-20C20E?style=for-the-badge"> 
 </div> 
